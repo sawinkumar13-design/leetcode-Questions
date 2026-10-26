@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@
 | [0027-remove-element](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -35,4 +37,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
