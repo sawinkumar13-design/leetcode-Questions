@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
