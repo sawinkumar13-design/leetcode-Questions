@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0283-move-zeroes) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -48,4 +50,12 @@
 | ------- |
 | [0039-combination-sum](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
