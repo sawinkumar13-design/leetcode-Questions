@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
