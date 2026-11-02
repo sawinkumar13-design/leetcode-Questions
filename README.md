@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -47,12 +48,14 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Backtracking
 |  |
 | ------- |
