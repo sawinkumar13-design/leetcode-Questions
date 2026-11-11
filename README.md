@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0050-powx-n](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
 |  |
 | ------- |
