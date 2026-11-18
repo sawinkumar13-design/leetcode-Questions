@@ -40,6 +40,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
@@ -57,6 +58,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
