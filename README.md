@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0905-sort-array-by-parity) |
+| [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
