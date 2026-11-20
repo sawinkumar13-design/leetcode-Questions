@@ -50,6 +50,7 @@
 | [0125-valid-palindrome](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3174-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -132,4 +133,9 @@
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
