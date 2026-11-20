@@ -49,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -139,6 +140,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
@@ -148,4 +150,8 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3174-clear-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
