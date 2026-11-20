@@ -31,6 +31,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3174-clear-digits) |
@@ -131,11 +133,13 @@
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
