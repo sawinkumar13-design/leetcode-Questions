@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Math
@@ -66,6 +68,7 @@
 | [0050-powx-n](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
@@ -76,6 +79,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
@@ -102,6 +106,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -110,6 +115,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
