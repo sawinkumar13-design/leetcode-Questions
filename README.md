@@ -31,6 +31,7 @@
 | [0141-linked-list-cycle](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -69,6 +70,7 @@
 | [0050-powx-n](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -109,11 +111,13 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
