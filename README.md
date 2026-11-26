@@ -72,6 +72,7 @@
 | [0263-ugly-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3360-stone-removal-game](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3360-stone-removal-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
 |  |
@@ -151,6 +152,7 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/sawinkumar13-design/leetcode-Questions/tree/master/3360-stone-removal-game) |
 ## Bracket Sequences
 |  |
 | ------- |
